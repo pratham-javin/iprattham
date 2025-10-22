@@ -45,5 +45,29 @@ I've experience in various fields of work:zap: I love watching films & series �
     <a href> <img title="Pratham's Top Languages" alt="Pratham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprattham&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vision-friendly-dark"></a>
     <br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=iprattham&bg_color=0d1117&color=8e44ad&line=9b59b6&point=ffffff&area=true&hide_border=true" align="center" alt="iprattham activity graph"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=iprattham&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FF4500&line=FF4500&point=FFFFFF" alt="Contribution Graph" width="98%" />
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iprattham&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
     <br>
   <b>Note:</b> Top languages are only a metric for the languages my public code consists of, and doesn't reflect experience or skill level.
