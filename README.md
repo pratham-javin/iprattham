@@ -57,7 +57,7 @@ I've experience in various fields of work:zap: I love watching films & series ðŸ
           title="Pratham's Top Languages" 
           alt="Pratham's Top Languages" 
           src="https://github-readme-stats.vercel.app/api/top-langs?username=iprattham&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vision-friendly-dark" 
-          height="195"
+          height="195"&count_private=true" alt="Pratham's Top Languages"
         />
       </a>
     </p>
