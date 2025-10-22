@@ -43,20 +43,19 @@ I've experience in various fields of work:zap: I love watching films & series ðŸ
         <img title="Pratham's Streak" alt="Pratham's streak" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iprattham&layout=compact&theme=vision-friendly-dark">
 </p>
 </>
-    <div style="display: flex; justify-content: center; align-items: stretch; gap: 15px; flex-wrap: wrap;">
-      <a href="#" style="flex: 1 1 45%; min-width: 300px;">
+    <div style="display: flex; justify-content: center; align-items: flex-start; gap: 12px; flex-wrap: wrap;">
+      <a href="#">
         <img 
           title="Pratham's Github Stats" 
           alt="Pratham's Github Stats" 
-          src="https://github-readme-stats.vercel.app/api?username=iprattham&show_icons=true&locale=en&layout=compact&rank_icon=github&theme=vision-friendly-dark" 
-          style="width: 100%; height: 100%; object-fit: cover;">
+          src="https://github-readme-stats.vercel.app/api?username=iprattham&show_icons=true&locale=en&layout=compact&rank_icon=github&theme=vision-friendly-dark" >
       </a>
-      <a href="#" style="flex: 1 1 45%; min-width: 300px;">
+      <a href="#">
         <img 
           title="Pratham's Top Languages" 
           alt="Pratham's Top Languages" 
           src="https://github-readme-stats.vercel.app/api/top-langs?username=iprattham&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vision-friendly-dark" 
-          style="width: 100%; height: 100%; object-fit: cover;">
+          style="height: 195px;">
       </a>
     </div>
     <br>
