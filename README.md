@@ -51,7 +51,7 @@ I've experience in various fields of work:zap: I love watching films & series ðŸ
           src="https://github-readme-stats.vercel.app/api?username=iprattham&show_icons=true&locale=en&layout=compact&rank_icon=github&theme=vision-friendly-dark" 
         />
       </a>
-      &nbsp;&nbsp;&nbsp; <!-- This adds spacing -->
+      &nbsp;&nbsp;&nbsp; <!-- spacing between cards -->
       <a href="#">
         <img 
           title="Pratham's Top Languages" 
