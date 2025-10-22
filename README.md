@@ -44,5 +44,8 @@ I've experience in various fields of work:zap: I love watching films & series ðŸ
 </>
     <a href> <img title="Pratham's Github Stats" alt="Pratham's Github Stats" src="https://github-readme-stats.vercel.app/api?username=iprattham&show_icons=true&locale=en&layout=compact&rank_icon=github&theme=vision-friendly-dark"></a>
     <a href> <img title="Pratham's Top Languages" alt="Pratham's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=iprattham&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vision-friendly-dark"></a>
+    <p align="center">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=iprattham&bg_color=0d1117&color=8e44ad&line=9b59b6&point=ffffff&area=true&hide_border=true" alt="iprattham activity graph"/>
+    </p>
     <br>
   <b>Note:</b> Top languages are only a metric for the languages my public code consists of, and doesn't reflect experience or skill level.
