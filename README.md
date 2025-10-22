@@ -43,7 +43,7 @@ I've experience in various fields of work:zap: I love watching films & series ðŸ
         <img title="Pratham's Streak" alt="Pratham's streak" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iprattham&layout=compact&theme=vision-friendly-dark">
 </p>
 </>
-    <div style="display: flex; justify-content: center; align-items: flex-start; gap: 12px; flex-wrap: wrap;">
+    <div style="display: flex; justify-content: center; align-items: flex-start; gap: 21px; flex-wrap: wrap;">
       <a href="#">
         <img 
           title="Pratham's Github Stats" 
