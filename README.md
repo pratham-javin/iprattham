@@ -43,21 +43,24 @@ I've experience in various fields of work:zap: I love watching films & series ðŸ
         <img title="Pratham's Streak" alt="Pratham's streak" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iprattham&layout=compact&theme=vision-friendly-dark">
 </p>
 </>
-    <div style="display: flex; justify-content: center; align-items: flex-start; gap: 21px; flex-wrap: wrap;">
+    <p align="center">
       <a href="#">
         <img 
           title="Pratham's Github Stats" 
           alt="Pratham's Github Stats" 
-          src="https://github-readme-stats.vercel.app/api?username=iprattham&show_icons=true&locale=en&layout=compact&rank_icon=github&theme=vision-friendly-dark" >
+          src="https://github-readme-stats.vercel.app/api?username=iprattham&show_icons=true&locale=en&layout=compact&rank_icon=github&theme=vision-friendly-dark" 
+        />
       </a>
+      &nbsp;&nbsp;&nbsp; <!-- This adds spacing -->
       <a href="#">
         <img 
           title="Pratham's Top Languages" 
           alt="Pratham's Top Languages" 
           src="https://github-readme-stats.vercel.app/api/top-langs?username=iprattham&show_icons=true&locale=en&layout=compact&langs_count=8&theme=vision-friendly-dark" 
-          style="height: 195px;">
+          height="195"
+        />
       </a>
-    </div>
+    </p>
     <br>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=iprattham&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=FF4500&line=FF4500&point=FFFFFF" align="center" alt="Contribution Graph" width="98%" />
 
